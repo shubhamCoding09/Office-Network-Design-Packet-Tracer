@@ -58,11 +58,6 @@ Departments:
 
 ---
 
-## 📸 Screenshots
-(Add your Packet Tracer screenshots here)
-
----
-
 ## 📚 Learning Outcome
 - Practical understanding of VLAN  
 - Hands-on routing configuration  
